@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ProjectSnake.iml" filepath="$PROJECT_DIR$/ProjectSnake.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimpleSwingSnake.iml" filepath="$PROJECT_DIR$/SimpleSwingSnake.iml" />
     </modules>
   </component>
 </project>
