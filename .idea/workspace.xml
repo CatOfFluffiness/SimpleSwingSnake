@@ -9,13 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88f36e8a-fe29-4c6f-b8f3-7118df8abef6" name="Changes" comment="+ файлы">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/SimpleSwingSnake_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SimpleSwingSnake.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SimpleSwingSnake.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameFrame.java" afterDir="false" />
-    </list>
+    <list default="true" id="88f36e8a-fe29-4c6f-b8f3-7118df8abef6" name="Changes" comment="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +26,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -95,7 +90,7 @@
       <workItem from="1685968429847" duration="2273000" />
       <workItem from="1685973555546" duration="153000" />
       <workItem from="1685977829494" duration="1653000" />
-      <workItem from="1685979491406" duration="1008000" />
+      <workItem from="1685979491406" duration="1334000" />
     </task>
     <task id="LOCAL-00001" summary="Добавление системы сборки maven в проект">
       <created>1685900431213</created>
@@ -118,7 +113,28 @@
       <option name="project" value="LOCAL" />
       <updated>1685977867696</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame">
+      <created>1685980720595</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1685980720595</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame">
+      <created>1685980772911</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1685980772911</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame">
+      <created>1685980930889</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1685980930889</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +155,8 @@
     <MESSAGE value="Добавление системы сборки maven в проект" />
     <MESSAGE value="Добавлено логирование для старта игры, нажатий клавиш, создания яблок и окончания игры" />
     <MESSAGE value="+ файлы" />
-    <option name="LAST_COMMIT_MESSAGE" value="+ файлы" />
+    <MESSAGE value="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame" />
+    <option name="LAST_COMMIT_MESSAGE" value="Удалены лишние зависимости в pom файле, удалены лишние импорты в GameFrame" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
