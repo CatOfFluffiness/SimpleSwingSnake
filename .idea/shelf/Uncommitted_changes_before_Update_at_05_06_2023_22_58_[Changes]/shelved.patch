@@ -1,0 +1,31 @@
+Index: META-INF/MANIFEST.MF
+===================================================================
+diff --git a/META-INF/MANIFEST.MF b/META-INF/MANIFEST.MF
+deleted file mode 100644
+--- a/META-INF/MANIFEST.MF	(revision 94a037e5cd21ed906a51b65d004a4bf8c97b0078)
++++ /dev/null	(revision 94a037e5cd21ed906a51b65d004a4bf8c97b0078)
+@@ -1,3 +0,0 @@
+-Manifest-Version: 1.0
+-Main-Class: SnakeGame
+-
+Index: .idea/artifacts/SimpleSwingSnake_jar.xml
+===================================================================
+diff --git a/.idea/artifacts/SimpleSwingSnake_jar.xml b/.idea/artifacts/SimpleSwingSnake_jar.xml
+deleted file mode 100644
+--- a/.idea/artifacts/SimpleSwingSnake_jar.xml	(revision 94a037e5cd21ed906a51b65d004a4bf8c97b0078)
++++ /dev/null	(revision 94a037e5cd21ed906a51b65d004a4bf8c97b0078)
+@@ -1,13 +0,0 @@
+-<component name="ArtifactManager">
+-  <artifact type="jar" name="SimpleSwingSnake:jar">
+-    <output-path>$PROJECT_DIR$/out/artifacts/SimpleSwingSnake_jar</output-path>
+-    <root id="archive" name="SimpleSwingSnake.jar">
+-      <element id="directory" name="META-INF">
+-        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+-      </element>
+-      <element id="module-output" name="SimpleSwingSnake" />
+-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.4.7/logback-core-1.4.7.jar" path-in-jar="/" />
+-      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.4/slf4j-api-2.0.4.jar" path-in-jar="/" />
+-    </root>
+-  </artifact>
+-</component>
+\ No newline at end of file
